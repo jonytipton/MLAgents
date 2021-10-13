@@ -1,5 +1,5 @@
 # MLAgents - TeamRightSide
-### Owner: *Mellissa Leifeste*
+### Owner: *Melissa Leifeste*
 ### Artist: *Katherine Ward*
 ### Tester: *Donovan Montoya*
 ### Programmer: *Jonathan Tipton*
